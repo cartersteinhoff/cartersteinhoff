@@ -1,7 +1,7 @@
 Hi, I'm Carter Steinhoff, a passionate self-taught Fullstack developer from the US.
 
 - 🔭 I’m currently working on renderless-components
-- 🌱 I’m currently learning Typescript
+- 🌱 Working on mastering Typescript
 
 **Languages and Tools:**  
 
